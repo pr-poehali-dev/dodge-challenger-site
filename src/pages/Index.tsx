@@ -337,7 +337,7 @@ export default function Index() {
               <h4 className="font-bold mb-4">КОНТАКТЫ</h4>
               <div className="space-y-2 text-muted-foreground">
                 <p>+7 (xxx) xxx-xx-xx</p>
-                <p>info@hellcat.ru</p>
+                <p></p>
                 <div className="flex space-x-4 mt-4">
                   <Icon name="Instagram" className="hover:text-primary cursor-pointer transition-colors" size={20} />
                   <Icon name="Youtube" className="hover:text-primary cursor-pointer transition-colors" size={20} />
